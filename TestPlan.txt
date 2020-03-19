@@ -1,0 +1,16 @@
+Product Search Tests - Out of scope: List Search functionality
+
+- Search for a simple product name and confirm it is found
+- Search for a partial name of the above product
+- Search with a misspelling
+- Search with all upper case, then all lower case, then a mix
+- Include special characters in the search for the above product name
+- Search for a completely different product to ensure this product doesn't appear when it's not supposed to
+- Search for a product with numerics in the name
+- Paste the product name into the search
+- Attempt to paste a file/clipboard object like a picture/emoji into the search and search
+- Press search with no input
+- Search using many keywords to create a scenario where no product should match
+- Search for a product that doesn't exist
+- Attempt to max out the search box by searching for the same product repeated
+- Execute search by pressing enter, and again by clicking the search icon
